@@ -1,5 +1,6 @@
 # telegramlist
-Telegram中文群索引列表（言论自由版）Updated 2017.10
+Telegram中文群索引列表（言论自由版）Updated 2020.12
+
 我不一定同意你的说法，但我誓死捍卫你言论自由的权利 -- 伏尔泰
 
 1 社群
@@ -73,6 +74,7 @@ Telegram中文群索引列表（言论自由版）Updated 2017.10
 📢🌐| 豆腐新闻部 Tofu Times (https://t.me/tofutimes)  
 👥🔐| sspai · Android (https://telegram.me/joinchat/BC6PtDwBMhfDu6pnrg2wgw)  
 👥🌐| UNIV CHAT (https://t.me/UnivChat)  
+👥🌐| 我比你强问答社区 (https://t.me/wobiniqiang)  
 
 2 ACG
 
