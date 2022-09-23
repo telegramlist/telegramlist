@@ -405,6 +405,9 @@ Telegram中文群索引列表（言论自由版）Updated 2017.10
 
 8 Linux相关
 
+
+👥🌐|👤 1549| 开发(Dev)运维(Ops)实力甩锅群 (https://t.me/DevOpsSiBi)
+👥🌐|👤 1316| Kubernetes CN (https://t.me/Kubernetes_CN)
 👥🌐|👤 977| Debian 中文 (https://t.me/debianzh)  
 👥🌐|👤 858| Docker CE (https://t.me/dockertutorial)  
 👥🌐|👤 486| Kali Linux/BlackArch Linux/Nethunter 中文交流 (https://t.me/hackerzh)  
@@ -552,6 +555,7 @@ Telegram中文群索引列表（言论自由版）Updated 2017.10
 
 11 政治经济
 
+📢🌐|👤 6688| 【华尔街见闻】- 财经时讯 (https://t.me/FinanceNewsDaily)
 👥🌐|👤 4604| GFW 吐槽 && 翻墙方法讨论 (https://t.me/DiscussCrossGFW)  
 👥🔐|👤 2707| 自由公园 (https://telegram.me/joinchat/Cp919j0kXKxynaUbsNffqA)  
 📢🌐|👤 2110| Free網絡信息自由門 （纯事件为主的翻墙free公益网友闲极无聊自媒体） (https://t.me/todayfreedom)  
@@ -601,6 +605,7 @@ Telegram中文群索引列表（言论自由版）Updated 2017.10
 
 12 同城
 
+📢🌐|👤 2742| 树洞 (https://t.me/aTreeHole)
 👥🔐|👤 1825| 深圳电报群—吃喝玩乐😋😋 (https://telegram.me/joinchat/Cb805T7kWz0Y-IVo1MSTow)  
 👥🌐|👤 636| 上海国际交流群 Shanghai International Communication Group (https://t.me/ShanghaiPrimeAge)  
 👥🔐|👤 600| 广州电报群-吃喝玩乐😋😋 (https://t.me/joinchat/AAAAAEE3yZZB1VXI-j088w)  
@@ -683,6 +688,7 @@ Telegram中文群索引列表（言论自由版）Updated 2017.10
 14 NSFW
 
 👥🌐|👤 8567| 胴体的秘密 (https://t.me/secretofbody)  
+📢🌐|👤 7042|食 • 色 (https://t.me/realShiSe)
 📢🌐|👤 4949| FinelyGirlsChannel (https://t.me/finelygirls)  
 👥🌐|👤 4629| 环球人类未来发展大学 (https://t.me/G_University)  
 👥🔐|👤 2202| 万一封了联系@wucicici 污水处理厂 (https://telegram.me/joinchat/DSHeBUENRduDzlNSFpgorA)  
